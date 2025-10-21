@@ -1,4 +1,6 @@
-import pygame
+# visual tetris game
+
+import pygam
 import sys
 import random
 import os
