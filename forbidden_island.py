@@ -1,3 +1,5 @@
+# board game simulator of forbidden island
+
 # navigator, bugs
 
 from copy import deepcopy
