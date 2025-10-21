@@ -1,3 +1,5 @@
+# simple 2048 visual game, no animation
+
 import pygame
 import sys
 
