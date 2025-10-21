@@ -1,3 +1,5 @@
+# visual tic tac toe interface, can calculate which moves lead to a win, loss, or draw
+
 import os
 import pickle
 import pygame
