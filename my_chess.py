@@ -1,3 +1,5 @@
+# 2 player visual chess interface
+
 import pygame
 import os
 import sys
