@@ -1,3 +1,5 @@
+# computer plays cows and bulls and tries to guess user's number, algorithm creation in mastermind.py
+
 import copy
 import frozendict
 import pickle
