@@ -1,3 +1,5 @@
+# simulator for the board game "small world"
+
 import pygame
 import sys
 
