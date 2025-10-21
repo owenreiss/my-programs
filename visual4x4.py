@@ -1,3 +1,5 @@
+# visual inputting for my 4x4 rubik's cube solver
+
 import _4x4_non_optimal as main4x4
 import pygame
 import sys
