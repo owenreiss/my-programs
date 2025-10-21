@@ -1,3 +1,5 @@
+# calculates bpm of user pressing spacebar
+
 import time
 
 clicks = 1
