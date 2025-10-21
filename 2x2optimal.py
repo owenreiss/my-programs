@@ -1,3 +1,5 @@
+# 2x2 rubik's cube solver in the least moves possible
+
 import time
 from random import randint
 import os
