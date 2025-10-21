@@ -1,3 +1,6 @@
+# my algorithm for solving a rubik's cube
+
+
 #First functional scramble ever!!! ((3, 2, 7, 11, 6, 4, 10, 0, 8, 1, 9, 5), (1, 3, 4, 0, 2, 5, 7, 6), (1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1), (1, 2, 1, 0, 0, 0, 1, 1))
 #Old alg solve: R' D' R' D2 R D2 F U' R B2 L' B' L R2 F' U F U R' U2 R U' R' U2 R' U R2 U R' U' R U' R' U2 R U R2 B2 R F R' B2 R F' R U R L' U2 D2 R L' D R2 L2 U' F2 B2 U'
 #New alg solve: F' U F2 L D B U2 R' U R2 B R' B2 R' F R2 F' R F R F' R' U R2 U' R2 U' R2 U2 R U2 F2 U' F2 D R2 B2 U B2 D' R2 U'
