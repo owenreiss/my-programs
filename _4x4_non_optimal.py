@@ -1,3 +1,5 @@
+# my algorithm for solving a 4x4 rubik's cube
+
 import sys
 import random
 from time import perf_counter
