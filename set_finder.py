@@ -1,3 +1,5 @@
+# finds all sets given cards for the "set" board game
+
 import pygame
 # pygame is a library that allows this program to run visually
 import sys
