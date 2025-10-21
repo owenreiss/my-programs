@@ -1,3 +1,5 @@
+# 2 player visual connect 4
+
 import pygame
 import sys
 import os
