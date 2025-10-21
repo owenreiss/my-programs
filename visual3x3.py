@@ -1,3 +1,5 @@
+# rubik's cube solver with visual inputting. Includes my algorithm and a more efficient algorithm
+
 import pygame
 import sys
 import os
