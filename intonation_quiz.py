@@ -1,3 +1,5 @@
+# plays 2 similar pitches and asks user to identify the higher pitch, difficulty increases after more right answers
+
 import pygame
 import numpy
 import math
