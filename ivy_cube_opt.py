@@ -1,3 +1,5 @@
+# optimal ivy cube solver
+
 import copy
 import time
 import random
