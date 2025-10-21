@@ -1,3 +1,6 @@
+# optimal skewb solver
+
+
 #First working state! ((0, 2, 3, 1), (1, 1, 0, 1, 1, 1, 0, 0), (2, 0, 3, 5, 4, 1))
 #Solution: R L' F R' F' L' B
 
