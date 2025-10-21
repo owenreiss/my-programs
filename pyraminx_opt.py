@@ -1,3 +1,5 @@
+# optimal pyraminx solver
+
 import time
 
 #solved = yellow front blue bottom
